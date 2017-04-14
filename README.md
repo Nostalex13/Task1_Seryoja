@@ -1,3 +1,3 @@
 # Task1_Seryoja
 Zadanie nomer Odyn,
-Small polindrome algorithm
+Small palindrome filtering algorithm
